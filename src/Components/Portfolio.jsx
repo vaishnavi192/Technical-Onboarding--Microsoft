@@ -40,13 +40,13 @@ const projectList = [
     title: "Hacknitt",
     description:
       "Created a website to improve coding culture in college, It uses leetcode, codeforces, codechef api to fetch data and display it in a single dashboard of NITT students.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://github.com/vaishnavi192/HackNITTE_Backendmain",
   },
   {
     title: "Transfinitte",
     description:
       "Created a website for conducting college levl hackathon consisting of more than 500+ participants.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/vaishnavi192/Transfinitte-23",
   },
   {
     title: "Startup Internship Portal",
