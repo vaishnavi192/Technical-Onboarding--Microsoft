@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/sample1.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Youtube Clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a React based Youutbe clone with features like topic specific search, watch, like, dislike, comment, and subscribe. Used YouTube API to fetch data.",
+    url: "https://github.com/vaishnavi192/Youtubeuff",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hacknitt",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Created a website to improve coding culture in college, It uses leetcode, codeforces, codechef api to fetch data and display it in a single dashboard of NITT students.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Transfinitte",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Created a website for conducting college levl hackathon consisting of more than 500+ participants.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Startup Internship Portal",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Created a website for college students to apply for internships in alumni based startups and companies.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
